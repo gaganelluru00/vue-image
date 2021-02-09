@@ -1,0 +1,8 @@
+export const GET_IMAGES_DATA='getImages'
+export const GET_ERROR_DATA='getErrorData'
+export const INCREMENT_PAGE_NUMBER='increment'
+export const DECREMENT_PAGE_NUMBER='decrement'
+export const GET_IMAGE_DATA_BY_ID='getImage'
+export const DELETE_IMAGE_DATA='deleteImage'
+export const CHANGE_PAGE_URL='changePageUrl'
+export const DOWNLOAD_IMAGE='downloadImage'
